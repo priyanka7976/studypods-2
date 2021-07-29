@@ -6,3 +6,4 @@ S.No.    Date                 task                               problem        
  4.     25/7        if else, switch case
  5.     26/7         loops          
  6.     27/7         break,pointer 
+ 7.     28/7        array,structure,union,enum
