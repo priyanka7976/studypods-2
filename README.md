@@ -1,4 +1,10 @@
 # studypods-2
+
+NAME - PRIYANKA
+BRANCH - ELECTRONICS AND COMPUTER (1 YEAR)
+SP NO. - SP0234
+MENTOR - JAINY JAIN
+
 S.No.    Date                 task                               problem             solution 
  1.     22/7        learn about basic structure                    -                    -
  2.     23/7       variables,data type,score,comments             
