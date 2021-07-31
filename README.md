@@ -13,3 +13,4 @@ S.No.    Date                 task                               problem        
  5.     26/7        loops          
  6.     27/7        break,pointer 
  7.     28/7        array,structure,union,enum
+ 8.     30/7        functions
