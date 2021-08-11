@@ -14,3 +14,15 @@ S.No.    Date                 task                               problem        
  6.     27/7        break,pointer 
  7.     28/7        array,structure,union,enum
  8.     30/7        functions
+ 9.     1/8         call by value/reference,inline function
+ 10.     2/8        recursion,function over loading
+ 11.     3/8         oop
+ 12.     4/8         classes,public private accesss
+ 13.     5/8         nesting of member and memory allocatio
+ 14.     6/8         solve some problems based on classes
+ 15.     7/8          static data members
+ 16.     8/8          -
+ 17.     9/8          array,friend function
+ 18.     10/8        friend classes,examples
+ 19.     
+ 20.   
