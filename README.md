@@ -24,5 +24,9 @@ S.No.    Date                 task                               problem        
  16.     8/8          -
  17.     9/8          array,friend function
  18.     10/8        friend classes,examples
- 19.     
- 20.   
+ 19.     11/8        -
+ 20.     12/8        -(I was sick)
+ 21.     13/8         friend classes
+ 22.     14/8         construction
+ 23.     15/8         parameterized and default construction,construction overloading
+ 24.   
