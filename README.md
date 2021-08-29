@@ -29,4 +29,9 @@ S.No.    Date                 task                               problem        
  21.     13/8         friend classes
  22.     14/8         construction
  23.     15/8         parameterized and default construction,construction overloading
- 24.   
+ 24.     16/8         construction overloading,default argument
+ 25.     17/8         copy constuction,destruction
+ 26.     18/8          -
+ 27.     19/8          inheritence,its types,syntax
+ 28.     20/8          single inheretence deep drive
+ 29.     21/8          procted modifier,multilevel,multiple inheretence
